@@ -519,7 +519,7 @@ class DerivClient:
             "basis":         "stake",
             "contract_type": contract_type,
             "currency":      self.cfg["currency"],
-            "duration":      1,
+            "duration":      3,
             "duration_unit": "t",
             "symbol":        self.cfg["symbol"],
         }
